@@ -5,7 +5,8 @@
 ![Build Time](https://img.shields.io/github/workflow/status/santoshkovvada/python-ci-demo/Python%20CI?label=build&logo=github-actions&style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/santoshkovvada/python-ci-demo?style=flat-square)
 ![Languages](https://img.shields.io/github/languages/top/santoshkovvada/python-ci-demo?style=flat-square)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/santoshkovvada/python-ci-demo?style=flat-square)
+![Coverage](https://codecov.io/gh/santoshkovvada/python-ci-demo/branch/main/graph/badge.svg)
+
 
 ---
 
